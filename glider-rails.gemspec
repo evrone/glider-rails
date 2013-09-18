@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "glider-rails"
-  gem.version       = "0.0.5"
+  gem.version       = "0.0.6"
   gem.authors       = ["Valentin Vasilyev", "Dmitry Karpunin"]
   gem.email         = ["iamvalentin@gmail.com", "koderfunk@gmail.com"]
   gem.description   = "Glider, AngularJS UI slider for rails asset pipeline"
